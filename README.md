@@ -7,6 +7,7 @@
 This repository contains the client-side JavaScript solutions for Lab #4a, demonstrating DOM selection, event handling with `addEventListener()`, input validation, conditional logic, loops, and dynamic element creation using safe `textContent` updates.
 
 ## Repository Structure
+```text
 bic21203-lab4a-javascript/
 ├── README.md
 ├── q1/
@@ -18,7 +19,7 @@ bic21203-lab4a-javascript/
 └── q3/
     ├── index.html
     └── script.js
-
+```
 ## Question 1
 Selects the #message paragraph and #changeBtn button via DOM methods and registers a click listener for changeMessage(), updating the paragraph text from "Welcome to my website!" to "Hello there!".
 
